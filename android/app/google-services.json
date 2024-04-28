@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154231204696",
+    "project_id": "countcolony-7566d",
+    "storage_bucket": "countcolony-7566d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154231204696:android:eb02f0f87b8e9dabfc132d",
+        "android_client_info": {
+          "package_name": "com.example.bccapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJzdJGRx2ZhqOcNV80KnfO-CumEuN8DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
