@@ -20,7 +20,7 @@ An innovative **Automatic Microbial Colony Counting** application for Android, b
 ## 📲 Download & Demo
 
 - **Download App:** [Click here](https://drive.google.com/file/d/13O_1nr6NQqhfMwfY0CJFdPoBss-GbvK4/view?usp=sharing)
-- **Live Demo:** [Watch here](https://github.com/user-attachments/assets/e69e3cb9-cf2d-42a2-9837-8bfb44d054ea)
+- **Live Demo:** https://github.com/user-attachments/assets/e69e3cb9-cf2d-42a2-9837-8bfb44d054ea
 
 ## 🛠️ Installation & Setup
 
