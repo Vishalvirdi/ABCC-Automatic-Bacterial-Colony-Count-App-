@@ -20,14 +20,14 @@ An innovative **Automatic Microbial Colony Counting** application for Android, b
 ## 📲 Download & Demo
 
 - **Download App:** [Click here](https://drive.google.com/file/d/13O_1nr6NQqhfMwfY0CJFdPoBss-GbvK4/view?usp=sharing)
-- **Live Demo:**
-- https://github.com/user-attachments/assets/e69e3cb9-cf2d-42a2-9837-8bfb44d054ea
+- ** DemoVideo:**
+   https://github.com/user-attachments/assets/e69e3cb9-cf2d-42a2-9837-8bfb44d054ea
 
 ## 🛠️ Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/automatic-colony-count.git
+   git clone https://github.com/Vishalvirdi/ABCC-Automatic-Bacterial-Colony-Count-App-.git
    cd automatic-colony-count
    ```
 2. Install dependencies:
